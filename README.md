@@ -1,2 +1,2 @@
 # Auto_checkin_m87
-自动签到登录（基于Action）
+自动登录签到（基于Action）
